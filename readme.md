@@ -3,10 +3,11 @@
 ## 概要
 
 [HelloMentor](https://hellomentor.jp/)のjs課題で作成しました。  
+下にスクロールしていき、キービジュアルが画面外になるとヘッダーが現れます。
 
 ## 公開 URL
 
-<!-- 👉 [https://java-script-rosy-six.vercel.app/](https://java-script-rosy-six.vercel.app/) -->
+👉 [https://js-intersection-observer.vercel.app/](https://js-intersection-observer.vercel.app/)
 
 ## 使用技術
 

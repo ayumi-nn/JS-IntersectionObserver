@@ -4,6 +4,7 @@
 
 [HelloMentor](https://hellomentor.jp/)のJavaScript課題で作成しました。  
 下にスクロールしていき、キービジュアルが画面外になるとヘッダーが現れます。
+🚩[GSAP Ver](https://github.com/ayumi-nn/gsap-intersectionobserver)
 
 ## 公開 URL
 
